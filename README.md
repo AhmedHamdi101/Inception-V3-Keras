@@ -9,7 +9,7 @@ There is 3 main building block
   
  and 2 different Grid Size Reduction Blocks.
  
- **The Architecture**
+ **Architecture**
   - Stem
   - 3x Module A
   - Grid Size Reduction
