@@ -2,7 +2,7 @@
 
 ### Implementation of Inception V3 convolutional neural network
 
-There is 3 main building block
+It consists of 3 main building blocks
   - Module A
   - Module B 
   - Module C
